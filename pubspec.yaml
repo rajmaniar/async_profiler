@@ -3,7 +3,7 @@ description: Profile async function
 repository: https://github.com/rajmaniar/async_profiler
 version: 0.0.1
 dependencies:
-  stack_trace: '>=1.7.0'
+  stack_trace: '^1.9.6'
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
